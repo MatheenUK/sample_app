@@ -9,6 +9,8 @@ gem 'rails', '4.2.1'
 gem 'sqlite3', '~> 1.3', '>= 1.3.11'
 # use passenger as....
 gem "passenger"
+# used for testing
+gem 'test-unit'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
